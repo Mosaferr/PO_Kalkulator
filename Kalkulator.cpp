@@ -1,4 +1,7 @@
-﻿#include <iostream>
+//Programowanie Objektowe, Projekt: Kalkulator arytmetyczny
+//Grzegorz Kowalczyk, sem. IV, gr. D3, nr indeksu: 147647
+
+#include <iostream>
 #include "operacje.h"
 using namespace std;
 
